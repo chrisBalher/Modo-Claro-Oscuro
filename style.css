@@ -25,7 +25,7 @@
 
 html {
   box-sizing: border-box;
-  scroll-behavior: smooth; //Hace que se desplace suavemente entre secciones
+  scroll-behavior: smooth; 
 }
 
 body {
